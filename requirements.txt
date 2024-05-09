@@ -1,0 +1,4 @@
+slack_sdk==3.27.1
+schedule==1.2.1
+cairosvg==2.7.1
+chevron==0.14.0
